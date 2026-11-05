@@ -25,7 +25,7 @@ To run or edit this project locally, you will need to have **Godot Engine 4.x** 
 ### Running the Game
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+   git clone https://github.com/obaid1dev/First-Game-in-Godot.git
    ```
 2. **Open Godot Engine:**
    - Click on **Import**.
